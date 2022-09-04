@@ -13,6 +13,7 @@ amex-default-prediction/train_data.csv.hdf5
 *.dirlock
 *.hdf5
 *.zip
+AMEX_2022.code-workspace
 dask-worker-space/worker-_lrk591j.dirlock
 dask-worker-space/worker-3qob2z_k.dirlock
 dask-worker-space/worker-fon4fchh.dirlock
