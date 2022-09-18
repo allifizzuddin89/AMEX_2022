@@ -8,11 +8,15 @@ amex-default-prediction/train_data.csv.hdf5
 /df_parquet_train/
 /df_parquet_test/
 /dask-worker-space/
+/df_parquet_test_V2/
+/df_parquet_train_V2/
+/df_train_labels_V2/
 *.parquet
 *.csv
 *.dirlock
 *.hdf5
 *.zip
+/train_labels_file/
 AMEX_2022.code-workspace
 dask-worker-space/worker-_lrk591j.dirlock
 dask-worker-space/worker-3qob2z_k.dirlock
